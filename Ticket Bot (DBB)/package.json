@@ -1,0 +1,16 @@
+{
+  "name": "dbb-bot-v6",
+  "version": "15.0.0",
+  "description": "DBB INC.",
+  "main": "DBB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DBB",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.music": "^2.3.0",
+    "aoi.db": "^1.1.0",
+    "aoi.js": "^6.2.6"
+  }
+}
